@@ -1,0 +1,2 @@
+USE `northwind` ;
+show tables;
